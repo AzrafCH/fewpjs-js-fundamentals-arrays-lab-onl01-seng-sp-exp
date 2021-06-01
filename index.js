@@ -1,5 +1,6 @@
 // Write your solution here!
 const append = ["Milo", "Otis", "Garfield"];
-append.pop("odie");
+append.pop("Odie");
 
-const 
+const prepend = ["Milo", "Otis", "Garfield"];
+prepend.push("Odie")
